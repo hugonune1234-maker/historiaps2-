@@ -1,0 +1,50 @@
+body
+{
+background-color:black;
+}
+
+h1
+{
+color:white;
+font-family:verdana;
+text-align:justify;
+font-size:35px;
+text-shadow:4px 4px 3px darkblue;
+}
+
+h2
+{
+color:white;
+font-family:verdana;
+text-align:justify;
+font-size:13px;
+}
+
+div.galeria
+{
+float:center;
+width:300px;
+margin:5px;
+border:1px solid gainsboro;
+}
+
+div.galeria img
+{
+width:300px;
+height:200px;
+}
+
+div.galeria:hover
+{
+border:3px solid gainsboro;
+}
+
+div.desc
+{
+padding:15px;
+text-align:center;
+font-weight:bold;
+color:silver;
+background-color:gray;
+}
+
